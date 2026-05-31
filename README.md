@@ -1,8 +1,6 @@
 # 🍕 The Hungry Oven — Full Stack Restaurant Platform
 
-<p align="center">
-  <img src="https://the-hungry-oven.vercel.app/" alt="The Hungry Oven Banner" width="100%" />
-</p>
+
 
 <p align="center">
   A modern full-stack restaurant web application focused on immersive UI/UX, scalable backend architecture, and real-world user workflows.
@@ -90,29 +88,7 @@ This project significantly improved my understanding of:
 
 ---
 
-# 📸 Project Preview
 
-## Landing Experience
-
-(Add Screenshot Here)
-
-## Interactive Food Menu
-
-(Add Screenshot Here)
-
-## Cart Functionality
-
-(Add Screenshot Here)
-
-## Admin Dashboard
-
-(Add Screenshot Here)
-
-## Authentication System
-
-(Add Screenshot Here)
-
----
 
 # 🌐 Live Demo
 
